@@ -1,0 +1,55 @@
+h1,h2,.card-title
+{
+    font-family: 'ADLaM Display', cursive;
+}
+li,.card-text{
+    font-family: 'Karla', sans-serif;
+    font-size: large;
+}
+.container,.first{
+    background-color: #E4A5FF;
+}
+.intro{
+    background-color: #E4A5FF;
+    padding:20px;
+}
+.myimg{
+    border-radius: 50%;
+    border: 10px solid #FFCDA8;
+}
+.resume{
+    background-color: #E4A5FF; 
+    padding: 20px 20px 200px 20px;
+    display:flex;
+    justify-content: space-evenly;
+    gap:10px;
+}
+.projects{
+    background-color: #E4A5FF;
+    margin: 50px 0 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.line{
+    border: 5px solid #FFCDA8;
+    margin-bottom: 100px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+}
+.ct{
+    margin-top:40px;
+    display: flex;
+    gap:30px;   
+}
+.contact{
+    margin:30px 0 40px 20px;
+}
+.butn{
+    height: 40px;
+    width: 60px;
+    border:3px solid #FFAAC9;
+    border-radius:50px 30px;
+    background-color: #E4A5FF;
+}
